@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Mohammed and I'm a programmer from Iraq</p>
+<p align="left">I'm Mohammed, an Iraqi programmer 💻</p>
 
 ###
 
