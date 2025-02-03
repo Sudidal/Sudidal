@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://i.imgur.com/S1CXvv2.png" width="100%" height="200px" />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up</h1>
 
 ###
@@ -58,6 +64,12 @@
   <a href="https://www.facebook.com/ModyHaiderr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://i.imgur.com/AtG9SmE.png" width="100%" height="200px"  />
 </div>
 
 ###
