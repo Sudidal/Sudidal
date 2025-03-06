@@ -53,7 +53,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" height="40" alt="eslint logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" height="40" alt="eslint logo" />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" al="tailwind logo" />
+          
 </div>
 
 ###
